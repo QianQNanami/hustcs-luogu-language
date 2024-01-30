@@ -1,0 +1,67 @@
+[I]base.py:init:759:脚本C:\Users\刘柏年\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\tuack\gen.py，工程路径D:\刘柏年\OI\命题\普及组模拟题\8 Huai'an October Training J 1，参数['contest']，开始于2022-09-25 23:12:46.438376。
+[I]gen.py:sample_copy:130:生成文件`.\.gitignore`
+[I]base.py:init:759:脚本C:\Users\刘柏年\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\tuack\gen.py，工程路径D:\OI\命题\普及组模拟题\8 Huai'an October Training J 1，参数['day', 'day1']，开始于2022-09-30 08:24:14.374637。
+[W]base.py:check_git:848:版本管理工具git没有安装，如果工程用git维护则你的修改可能无法成功提交。
+[I]base.py:check_git:849:一个可能的安装教程见这里：
+[I]base.py:check_git:850:https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git
+[I]base.py:check_git:852:Windows下有多种不同的git版本，大家可以多交流好用的版本。
+[I]base.py:check_git:853:git入门可以参看这里：
+[I]base.py:check_git:854:http://rogerdudler.github.io/git-guide/index.zh.html
+[I]base.py:check_git:855:一般推荐用ssh方式克隆仓库，并用公私钥保证安全，添加密钥的方式一般仓库的git网页上能找到。
+[I]gen.py:sample_copy:130:生成文件`day1\.gitignore`
+[I]base.py:init:759:脚本C:\Users\刘柏年\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\tuack\ren.py，工程路径D:\OI\命题\普及组模拟题\8 Huai'an October Training J 1，参数['noi', 'prec', '-o', 'noi', 'linux']，开始于2022-09-30 08:44:06.700838。
+[W]base.py:check_git:848:版本管理工具git没有安装，如果工程用git维护则你的修改可能无法成功提交。
+[I]base.py:check_git:849:一个可能的安装教程见这里：
+[I]base.py:check_git:850:https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git
+[I]base.py:check_git:852:Windows下有多种不同的git版本，大家可以多交流好用的版本。
+[I]base.py:check_git:853:git入门可以参看这里：
+[I]base.py:check_git:854:http://rogerdudler.github.io/git-guide/index.zh.html
+[I]base.py:check_git:855:一般推荐用ssh方式克隆仓库，并用公私钥保证安全，添加密钥的方式一般仓库的git网页上能找到。
+[I]ren.py:ren_prob_md_j:340:渲染题目题面 noi day1/money
+[I]ren.py:ren_prob_md_j:340:渲染题目题面 noi day1/divisor
+[I]ren.py:ren_prob_md_j:340:渲染题目题面 noi day1/average
+[I]ren.py:ren_prob_md_j:340:渲染题目题面 noi day1/book
+[I]ren.py:ren_day_pdf:568:渲染比赛日题面 noi day1
+[I]ren.py:ren_day_pdf:589:开始使用xelatex渲染题面。
+[I]base.py:init:759:脚本C:\Users\刘柏年\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\tuack\ren.py，工程路径D:\OI\命题\普及组模拟题\8 Huai'an October Training J 1，参数['noi', 'prec', '-o', 'noi', 'linux']，开始于2022-09-30 08:45:49.179235。
+[W]base.py:check_git:848:版本管理工具git没有安装，如果工程用git维护则你的修改可能无法成功提交。
+[I]base.py:check_git:849:一个可能的安装教程见这里：
+[I]base.py:check_git:850:https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git
+[I]base.py:check_git:852:Windows下有多种不同的git版本，大家可以多交流好用的版本。
+[I]base.py:check_git:853:git入门可以参看这里：
+[I]base.py:check_git:854:http://rogerdudler.github.io/git-guide/index.zh.html
+[I]base.py:check_git:855:一般推荐用ssh方式克隆仓库，并用公私钥保证安全，添加密钥的方式一般仓库的git网页上能找到。
+[I]ren.py:ren_prob_md_j:340:渲染题目题面 noi day1/money
+[I]ren.py:ren_prob_md_j:340:渲染题目题面 noi day1/divisor
+[I]ren.py:ren_prob_md_j:340:渲染题目题面 noi day1/average
+[I]ren.py:ren_prob_md_j:340:渲染题目题面 noi day1/book
+[I]ren.py:ren_day_pdf:568:渲染比赛日题面 noi day1
+[I]ren.py:ren_day_pdf:589:开始使用xelatex渲染题面。
+[I]base.py:init:759:脚本C:\Users\刘柏年\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\tuack\ren.py，工程路径D:\OI\命题\普及组模拟题\8 Huai'an October Training J 1，参数['noi', 'prec', '-o', 'noi', 'linux']，开始于2022-09-30 08:49:20.554303。
+[W]base.py:check_git:848:版本管理工具git没有安装，如果工程用git维护则你的修改可能无法成功提交。
+[I]base.py:check_git:849:一个可能的安装教程见这里：
+[I]base.py:check_git:850:https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git
+[I]base.py:check_git:852:Windows下有多种不同的git版本，大家可以多交流好用的版本。
+[I]base.py:check_git:853:git入门可以参看这里：
+[I]base.py:check_git:854:http://rogerdudler.github.io/git-guide/index.zh.html
+[I]base.py:check_git:855:一般推荐用ssh方式克隆仓库，并用公私钥保证安全，添加密钥的方式一般仓库的git网页上能找到。
+[I]ren.py:ren_prob_md_j:340:渲染题目题面 noi day1/money
+[I]ren.py:ren_prob_md_j:340:渲染题目题面 noi day1/divisor
+[I]ren.py:ren_prob_md_j:340:渲染题目题面 noi day1/average
+[I]ren.py:ren_prob_md_j:340:渲染题目题面 noi day1/book
+[I]ren.py:ren_day_pdf:568:渲染比赛日题面 noi day1
+[I]ren.py:ren_day_pdf:589:开始使用xelatex渲染题面。
+[I]base.py:init:759:脚本C:\Users\刘柏年\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\tuack\ren.py，工程路径D:\OI\命题\普及组模拟题\8 Huai'an October Training J 1，参数['noi', 'prec', '-o', 'noi', 'linux']，开始于2022-09-30 09:00:57.278837。
+[W]base.py:check_git:848:版本管理工具git没有安装，如果工程用git维护则你的修改可能无法成功提交。
+[I]base.py:check_git:849:一个可能的安装教程见这里：
+[I]base.py:check_git:850:https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git
+[I]base.py:check_git:852:Windows下有多种不同的git版本，大家可以多交流好用的版本。
+[I]base.py:check_git:853:git入门可以参看这里：
+[I]base.py:check_git:854:http://rogerdudler.github.io/git-guide/index.zh.html
+[I]base.py:check_git:855:一般推荐用ssh方式克隆仓库，并用公私钥保证安全，添加密钥的方式一般仓库的git网页上能找到。
+[I]ren.py:ren_prob_md_j:340:渲染题目题面 noi day1/money
+[I]ren.py:ren_prob_md_j:340:渲染题目题面 noi day1/divisor
+[I]ren.py:ren_prob_md_j:340:渲染题目题面 noi day1/average
+[I]ren.py:ren_prob_md_j:340:渲染题目题面 noi day1/book
+[I]ren.py:ren_day_pdf:568:渲染比赛日题面 noi day1
+[I]ren.py:ren_day_pdf:589:开始使用xelatex渲染题面。

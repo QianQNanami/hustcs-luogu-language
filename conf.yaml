@@ -1,0 +1,9 @@
+folder: contest
+name: name for programmers
+subdir:
+- day1
+subtitle:
+  zh-cn: 计算机科学与技术学院
+title:
+  zh-cn: 华中科技大学
+version: 2
