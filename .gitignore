@@ -1,1 +1,7 @@
 others
+
+solutions/*/target
+solutions/*/*.in
+solutions/*/*.out
+solutions/*/*.ans
+solutions/*/Cargo.lock
