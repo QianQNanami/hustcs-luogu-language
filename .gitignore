@@ -5,3 +5,4 @@ solutions/*/*.in
 solutions/*/*.out
 solutions/*/*.ans
 solutions/*/Cargo.lock
+solutions/*/.vscode
